@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Tax_learn"
+  id="myeclipse.1468829124437"
+  context-root="/Tax_learn"
+  j2ee-spec="6.0"
+  archive="Tax_learn.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

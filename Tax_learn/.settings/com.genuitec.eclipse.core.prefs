@@ -1,0 +1,4 @@
+#Tue Aug 16 18:05:04 CST 2016
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js,src/com/halo/login/conf/login-struts.xml,WebRoot/WEB-INF/jsp/nsfw/complain/annualStatisticChartUI.jsp
+validator.Unchecked=
